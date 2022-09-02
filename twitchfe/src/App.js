@@ -107,6 +107,7 @@ function App() {
         signoutOnClick={signoutOnClick}
         signinOnSuccess={signinOnSuccess}
         favoriteItems={favoriteItems}
+        favoriteOnChange={favoriteOnChange}
       />
       <Layout>
         <Sider width={300} className="site-layout-background">
