@@ -1,7 +1,6 @@
 package com.qinzan.jupiter.service;
 
 import com.qinzan.jupiter.dao.LoginDao;
-import com.qinzan.jupiter.dao.LoginDao;
 import com.qinzan.jupiter.util.Util;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

@@ -1,7 +1,6 @@
 package com.qinzan.jupiter.dao;
 
 import com.qinzan.jupiter.entity.db.User;
-import com.qinzan.jupiter.entity.db.User;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.springframework.beans.factory.annotation.Autowired;
